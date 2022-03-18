@@ -1,0 +1,25 @@
+body {
+  background-color: white;
+}
+
+.img_mn {
+  height: 250px;
+  width: 250px;
+}
+.box_maint {
+  display: flex;
+  justify-content: center;
+}
+.holder {
+  display: flex;
+  justify-content: center;
+}
+.btn_h {
+  background-color: #f84464;
+  color: white;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  position: relative;
+  top: 10px;
+}

@@ -1,0 +1,75 @@
+.mid_back {
+  padding: 20px;
+  width: 500px;
+  background-color: white;
+  position: absolute;
+  top: 130px;
+}
+.container {
+  display: flex;
+  justify-content: center;
+}
+.frm_items {
+  position: relative;
+  left: 100px;
+}
+input[type="submit"] {
+  background-color: #f84464;
+  color: white;
+}
+.email_01 {
+  height: 50px;
+  border-radius: 0px;
+}
+
+.password_01 {
+  height: 50px;
+  border-radius: 0px;
+  padding-left: 60px;
+  font-size: 13px;
+}
+.btn_01 {
+  width: 210px;
+  border-radius: 0px;
+  border: none;
+  height: 50px;
+  position: relative;
+  left: 230px;
+}
+.btn_reg {
+  height: 50px;
+  width: 220px;
+  background-color: white;
+  position: relative;
+  top: -50px;
+  padding: 10px;
+  text-align: center;
+  cursor: pointer;
+  left: 0px;
+  font-size: 14px;
+  line-height: 5px;
+}
+.icon_set_e {
+  height: 50px;
+  width: 50px;
+  background-color: #f84464;
+  position: absolute;
+  text-align: center;
+}
+.user_icon {
+  position: relative;
+  top: 10px;
+  color: white;
+  font-size: 20px;
+}
+.logo_seter {
+  height: 60px;
+  width: 150px;
+  position: relative;
+  left: 150px;
+  top: 5px;
+}
+.text_nv {
+  text-decoration: none;
+  color: black;
+}

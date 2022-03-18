@@ -1,0 +1,11 @@
+.img_EntPoster {
+  height: 210px;
+  width: 230px;
+  border-radius: 5px;
+}
+.contener_ent {
+  width: 90%;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+}

@@ -1,0 +1,11 @@
+body {
+  background-color: #f2f3f4;
+}
+.img_han {
+  height: 100px;
+  width: 90%;
+}
+.long_track {
+  display: flex;
+  justify-content: center;
+}

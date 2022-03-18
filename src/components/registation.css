@@ -1,0 +1,30 @@
+.lbl_class {
+  padding: 80px;
+  display: flex;
+  color: black;
+  justify-content: center;
+  position: absolute;
+  width: 100%;
+  top: 90px;
+}
+.logo_s {
+  position: relative;
+  top: -30px;
+  left: 210px;
+  color: #f84464;
+}
+.sub_btm {
+  margin-left: 125px;
+  margin-top: 10px;
+  width: 200px;
+  border: none;
+}
+.sub_btm:hover {
+  background-color: black;
+}
+.cover_set {
+  padding: 10px;
+  background-color: white;
+  width: 40%;
+  position: relative;
+}

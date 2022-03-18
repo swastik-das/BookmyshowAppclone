@@ -1,0 +1,29 @@
+
+   How to start the React app ? 
+
+   step 1 > 
+
+   Download the zip file from github or direct zip from any where.
+
+   step 2 > 
+
+   Extract it and add your code Editor. 
+
+   step 3 > 
+
+   Open that particular file in your terminal like git bash etc...  ( cmd --- > cd bookmyshow/clone-app ) 
+
+   step 4 > 
+  
+   Write this code to Install node module in gitbash 
+
+   -> npm install 
+
+  
+   step 5 > 
+ 
+  Write this cmd to run the code 
+
+  -> npm start 
+
+                                           ----------------  thank you happy Hacking ------------------

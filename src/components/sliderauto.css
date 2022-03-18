@@ -1,0 +1,41 @@
+.full_beg {
+  height: 750px;
+  width: 100%;
+  background-color: #2b3148;
+}
+.rupay_img {
+  height: 90px;
+  width: 90%;
+}
+.img_setr {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  top: 50px;
+}
+.contener_pre {
+  width: 90%;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  top: 100px;
+}
+.slick-prev:before,
+.slick-next:before {
+  color: #273746;
+}
+.ml-title {
+  color: white;
+}
+.rec1 {
+  color: white;
+}
+.quotsd {
+  position: relative;
+  margin-left: 100px;
+  top: 90px;
+}
+.txtx_sub {
+  color: white;
+  opacity: 0.8;
+}

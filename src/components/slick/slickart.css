@@ -1,0 +1,47 @@
+.poster_seter {
+  padding: 20px;
+  width: 100%;
+  background: #0f2027; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #2c5364,
+    #203a43,
+    #0f2027
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #2c5364,
+    #203a43,
+    #0f2027
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  display: flex;
+}
+.slick_poster {
+  height: 400px;
+  width: 300px;
+  position: relative;
+  left: 50px;
+  border-radius: 10px;
+}
+.poster_sub {
+  padding: 30px;
+  width: 80%;
+}
+.poster_details {
+  color: white;
+  position: relative;
+  left: 80px;
+  top: 40px;
+}
+
+.tik_book {
+  height: 50px;
+  width: 250px;
+  background-color: #f84464;
+  border: none;
+  color: white;
+  border-radius: 5px;
+}
+.visual {
+  border: none;
+}

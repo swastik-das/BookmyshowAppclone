@@ -1,0 +1,89 @@
+.movies_box {
+  padding: 120px;
+  width: 90%;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  left: 0px;
+  margin: 1rem auto;
+  left: 110px;
+}
+.movies_box a {
+  text-decoration: none;
+}
+.box_tgt {
+  height: 220px;
+  width: 200px;
+  background-color: black;
+  margin: 10px;
+  color: white;
+  position: relative;
+  top: 90px;
+  left: 100px;
+}
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(4, 0fr);
+  grid-gap: 20px;
+  height: 200px;
+  grid-row-gap: 30px;
+}
+.roner_hond {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  top: 30px;
+}
+.list_lang {
+  list-style: none;
+  display: flex;
+  position: relative;
+  top: 65px;
+  width: 700px;
+  left: -240px;
+  justify-content: space-around;
+}
+.title_b {
+  position: relative;
+  top: 20px;
+  left: 290px;
+  font-weight: 700;
+  color: #34495e;
+}
+.list_lang li {
+  color: #f84464;
+  background-color: white;
+  border: 1px solid #808b96;
+  padding: 7px;
+  border-radius: 20px;
+  font-size: 13px;
+}
+.box-filter {
+  height: 600px;
+  width: 250px;
+  background-color: #eaeded;
+  position: absolute;
+  top: 220px;
+  left: 30px;
+  align-items: center;
+}
+.filter_txt_head {
+  position: relative;
+  top: -50px;
+  font-weight: 700;
+}
+.filter_option {
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
+}
+.filter_option p {
+  color: #f84464;
+  color: #f84464;
+  background-color: white;
+  border: 1px solid #808b96;
+  padding: 7px;
+  border-radius: 20px;
+  font-size: 13px;
+  cursor: pointer;
+}

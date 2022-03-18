@@ -1,0 +1,61 @@
+nav {
+  height: 4.5rem;
+  background-color: #333545;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.logo {
+  color: white;
+}
+.list-item {
+  display: flex;
+  list-style: none;
+  color: white;
+  justify-content: space-around;
+  width: 800px;
+  position: relative;
+  top: 15px;
+}
+.searchBar {
+  height: 35px;
+  width: 540px;
+  position: relative;
+  left: -200px;
+  border-radius: 5px;
+  border: none;
+  position: relative;
+  top: -10px;
+}
+.sign-in {
+  background-color: #f84464;
+  color: white;
+  padding: 5px;
+  width: 150px;
+  border: none;
+  border-radius: 4px;
+  position: relative;
+  top: -4px;
+  left: 10px;
+}
+.logo-png {
+  height: 30px;
+  width: 130px;
+  position: relative;
+  left: -20px;
+}
+input[type="text"] {
+  padding-left: 50px;
+}
+input[type="text"]::placeholder {
+  font-size: 13px;
+  position: relative;
+  top: -2px;
+}
+.b_icon {
+  font-size: 20px;
+  color: #5d6d7e;
+  position: relative;
+  left: -730px;
+  top: -10px;
+}

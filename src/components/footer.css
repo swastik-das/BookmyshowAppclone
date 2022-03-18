@@ -1,0 +1,65 @@
+footer {
+  padding: 30px;
+  background-color: #333338;
+}
+.P_foot {
+  color: #7f7f7f;
+  font-size: 12px;
+}
+
+.hr1 {
+  background-color: #99a3a4;
+  width: 40%;
+}
+.hr2 {
+  position: relative;
+  top: -33px;
+  background-color: #99a3a4;
+  width: 40%;
+  float: right;
+}
+.logo_foot {
+  height: 30px;
+  width: 130px;
+  position: relative;
+}
+.img_foot {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  left: 230px;
+  top: -25px;
+}
+.logo_list {
+  height: 2rem;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.list_hopper {
+  list-style: none;
+  justify-content: space-around;
+  width: 300px;
+  display: flex;
+  color: white;
+  font-size: 30px;
+}
+.p_port1 {
+  color: white;
+  opacity: 0.3;
+  font-size: 10px;
+}
+.p_port2 {
+  color: white;
+  opacity: 0.3;
+  font-size: 10px;
+  position: relative;
+  top: -15px;
+}
+.p_port3 {
+  color: white;
+  opacity: 0.3;
+  font-size: 10px;
+  position: relative;
+  top: -30px;
+}

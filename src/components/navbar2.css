@@ -1,0 +1,47 @@
+.nav-2 {
+  padding: 3px;
+  background-color: #1f2533;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.list-item2 {
+  display: flex;
+  justify-content: space-around;
+  color: white;
+  width: 400px;
+  list-style: none;
+  opacity: 0.9;
+  font-size: 13px;
+  position: relative;
+  top: 5px;
+  right: 250px;
+  font-size: 14px;
+}
+
+.list-item3 {
+  display: flex;
+  justify-content: space-around;
+  color: white;
+  width: 380px;
+  list-style: none;
+  opacity: 0.9;
+  font-size: 13px;
+  position: relative;
+  top: 5px;
+  left: 200px;
+  font-size: 14px;
+}
+.sup_p {
+  color: red;
+}
+ul a {
+  text-decoration: none;
+  color: white;
+}
+ul a :hover {
+  text-decoration: none;
+  color: white;
+  opacity: 0.7;
+}
