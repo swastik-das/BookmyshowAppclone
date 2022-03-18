@@ -11,7 +11,7 @@
 
    step 3 > 
 
-   Open that particular file in your terminal like git bash etc...  ( cmd --- > cd bookmyshow/clone-app ) 
+   Open that particular file in your terminal through git bash etc...  
 
    step 4 > 
   
